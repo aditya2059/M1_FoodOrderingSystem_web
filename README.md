@@ -4,3 +4,4 @@ we have to choose resturant from where we want to order ,menu of resturant will 
 we  have to choose cuisine code from all cuisines you want to order
 we have to enter delivery deatails.
 we can choose any mode of payment (i) pay on delivery (ii) card (iii) upi
+
