@@ -16,12 +16,14 @@ we have to choose our locality and our favourite resturant.we have to select num
  
 ![Screenshot 2022-02-09 201950](https://user-images.githubusercontent.com/64580759/153226581-a03581ff-acee-456b-a78f-59b811192590.png)
 
-#**4W's & 1H**#
-#**4W's**#
+**4W's & 1H**
+
+
+**4W's**
 WHAT : Food Orderning System.
 WHEN : whenever we want to eat outside food.
 WHERE : Based On Locality.
 WHY : makes convenient way to buy food online.
-#**1H**#
+**1H**
 HOW : Accepts the order and get delivered by resturants.
 
