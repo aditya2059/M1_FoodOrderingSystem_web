@@ -1,6 +1,5 @@
 # CERTIFICATES #
 
-<<<<<<< HEAD
 **CISCO CERTIFICATES**
 =======
 ![CISCO_CERTIFICATE](https://user-images.githubusercontent.com/64580759/153260743-e76f2acf-70f4-40b7-ac79-b53b6cbfc804.png)
