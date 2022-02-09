@@ -21,11 +21,45 @@ we have to choose our locality and our favourite resturant.we have to select num
 
 **4W's**
 WHAT : Food Orderning System.
+
 WHEN : whenever we want to eat outside food.
+
 WHERE : Based On Locality.
+
 WHY : makes convenient way to buy food online.
 
 
 **1H**
+
 HOW : Accepts the order and get delivered by resturants.
+
+# REQUIREMENTS
+
+**HIGH LEVEL REQUIREMENTS**
+
+i) Customer selects their locality and their resturants.
+
+ii) Customer order their food .
+
+iii) Resturants accept the order and start preparing.
+
+iv) Delievery partner is assigned.
+
+v) Delievery partner finds the  address through google map.
+
+vi) Delievery partner delivers the food by confirming customer,s name.
+
+
+**LOW LEVEL REQUIREMENTS**
+
+i) Customer selects their locality and their resturants.
+
+ii) Customer order their food .
+
+iii) Resturants prepare food.
+
+iv) Food is delivered.
+
+
+
 
