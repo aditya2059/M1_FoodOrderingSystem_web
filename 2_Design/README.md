@@ -1,4 +1,4 @@
 # STRUCTURAL DIAGRAM #
 
-** High Level Structural Diagram **
+**High Level Structural Diagram**
 
