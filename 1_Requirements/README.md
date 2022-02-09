@@ -24,6 +24,8 @@ WHAT : Food Orderning System.
 WHEN : whenever we want to eat outside food.
 WHERE : Based On Locality.
 WHY : makes convenient way to buy food online.
+
+
 **1H**
 HOW : Accepts the order and get delivered by resturants.
 
