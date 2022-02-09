@@ -11,9 +11,8 @@ we have to choose our locality and our favourite resturant.we have to select num
 <<<<<<< HEAD
 
 # SWOT ANALYSIS
-=======
+
  
  
 ![Screenshot 2022-02-09 201950](https://user-images.githubusercontent.com/64580759/153226581-a03581ff-acee-456b-a78f-59b811192590.png)
 
->>>>>>> 1348252f1191ec266cdf84affcb51e1526a6792e
