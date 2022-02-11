@@ -32,7 +32,7 @@ void cuis ();
 void checkout ();
 void payment();
 
-void locality_A ()
+void locality_A ()  // 
 {
     printf("\n\n");
         printf("\t\t\t\t\t1. BURGER KING\n");
