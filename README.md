@@ -12,4 +12,6 @@ we can choose any mode of payment (i) pay on delivery (ii) card (iii) upi
 
 # code quality - codiga #
 
-![image](https://user-images.githubusercontent.com/64580759/153417881-27ec513d-265f-4b48-a8c8-6b50d6227e2a.png)
+![iCode grade](https://api.codiga.io/project/30950/score/svg)
+![iCode grade](https://api.codiga.io/project/30950/score/svg)
+
