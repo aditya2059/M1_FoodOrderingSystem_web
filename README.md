@@ -16,3 +16,7 @@ we can choose any mode of payment (i) pay on delivery (ii) card (iii) upi
 ![iCode grade](https://api.codiga.io/project/30950/score/svg)
 
 ![iCode grade](https://img.shields.io/github/issues/aditya2059/M1_FoodOrderingSystem_web)
+
+# STATIC CHECKS #
+
+[![cppchecks](https://github.com/aditya2059/M1_FoodOrderingSystem_web/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/aditya2059/M1_FoodOrderingSystem_web/actions/workflows/c-cpp.yml)
